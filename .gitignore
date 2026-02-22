@@ -1,1 +1,33 @@
+# R scripts (course reference files)
 *.R
+
+# Kaggle data (large CSV files — download via 00_download_data.ipynb)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# LaTeX build artifacts
+*.log
+*.aux
+*.toc
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+paper/output/*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+.env
+venv/
+/kaggle_examples
+MEMORY.md
+modelo trabajo/template tp.pdf
+/modelos R
+/paper DG
+/paper
+/papers
