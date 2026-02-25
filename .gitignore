@@ -31,3 +31,17 @@ modelo trabajo/template tp.pdf
 /paper DG
 /paper
 /papers
+cloud/catboost/catboost_cloud_metadata.json
+cloud/catboost/catboost_cloud_best.cbm
+cloud/lightgbm/lgbm_cloud_best.txt
+cloud/lightgbm/lgbm_cloud_metadata.json
+cloud/catboost/requirements.txt
+cloud/lightgbm/requirements.txt
+cloud/logit/logit_reg_cloud_best.pkl
+cloud/logit/logit_reg_cloud_metadata.json
+cloud/logit/requirements.txt
+cloud/nn/nn_cloud_best.keras
+cloud/nn/nn_cloud_metadata.json
+cloud/nn/nn_cloud_preproc.pkl
+cloud/nn/requirements.txt
+cloud/rfr/requirements.txt
